@@ -4,5 +4,5 @@ Hi! I'm Crystal, and I'm a writer with experience constructing end-user document
 * [Navigating your CentralReach dashboard: a quick start guide](https://github.com/crystal-morgan/portfolio/wiki/Navigating-your-CentralReach-dashboard:-a-quick-start-guide)
 * [Running a CentralReach session in browser](https://github.com/crystal-morgan/portfolio/wiki/Running-a-CentralReach-session-in-browser)
 * [Reasons to register your domain and hosting separately](https://github.com/crystal-morgan/portfolio/wiki/Reasons-to-register-your-domain-and-hosting-separately)
-* [Edited README.md file for terra-rebels](https://github.com/terra-rebels/tracker/blob/main/README.md)
+* [Edited README.md file for terra-rebels](https://github.com/crystal-morgan/portfolio/wiki/Edited-README.md-file-for-terra-rebels)
 * [More writing samples](https://www.clippings.me/users/crystalmorgan)
